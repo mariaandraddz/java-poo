@@ -109,5 +109,8 @@ Indicam o nível de acesso aos componentes internos(atributos e métodos) de uma
 - #: Modo protegido.
     - A classe atual e todas as suas sub-classes.
 
+-----
+
+### Métodos Especiais
 
 
