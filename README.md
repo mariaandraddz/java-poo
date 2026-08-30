@@ -113,4 +113,9 @@ Indicam o nível de acesso aos componentes internos(atributos e métodos) de uma
 
 ### Métodos Especiais
 
+- Getters: Consegue ter acesso ao determinado atributo mantenho a segurança do mesmo (métodos acessores) - não tem parâmetro
+- Setters: Precisa de algum parâmetro para funcionar (métodos modificados)
+- Construct: Função especial executada automaticamente quando você cria (instancia) um novo objeto a partir de uma classe
+
+
 
